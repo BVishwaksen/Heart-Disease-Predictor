@@ -20,7 +20,7 @@ The order of the values are `age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,
 
 ### Dataset
 The dataset used in this project is Heart-Disease dataset from UCI Machine Learning repository
-The dataset can be downloaded [here](#https://www.kaggle.com/ronitf/heart-disease-uci)
+The dataset can be downloaded from <https://www.kaggle.com/ronitf/heart-disease-uci>
 ### Technical-Details
 ##### Dataset Details
 The dataset contains 14 attributes and 303 instances.
