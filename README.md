@@ -43,7 +43,7 @@ target (1=presence or 0=absence)
 The project is implemented in python in Jupyter Notebook environment.It mainly contains two parts.The `heart-disease-trainer.ipynb` is for training the data and the `heart-disease-predictor.ipynb` is to load the trained data and to predict results.The `heartdisease_model.sav` is the model that is saved.The `Heart.csv` is the file that contains the dataset in comma seperated values format.
 ### Algorithm
 The Heart Disease Prediction is a type of classification problem.As here there are only two types of target values. Hence this comes under `binomial classification`.
-The algorithm used in this is `Logistic Regression`.More details about this algorithm can be found [here](#https://en.wikipedia.org/wiki/Logistic_regression)
+The algorithm used in this is `Logistic Regression`.More details about this algorithm can be found at <https://en.wikipedia.org/wiki/Logistic_regression>
 ### Lisence
 This is a public repository and you can use it for research,commercial and non-commercial purposes freely.
 
