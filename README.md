@@ -45,5 +45,5 @@ The project is implemented in python in Jupyter Notebook environment.It mainly c
 The Heart Disease Prediction is a type of classification problem.As here there are only two types of target values. Hence this comes under `binomial classification`.
 The algorithm used in this is `Logistic Regression`.More details about this algorithm can be found at <https://en.wikipedia.org/wiki/Logistic_regression>
 ### Lisence
-This is a public repository and you can use it for research,commercial and non-commercial purposes freely.
+This is a public repository and you can be used in research,commercial and non-commercial applications without any restrictions.
 
